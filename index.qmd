@@ -496,7 +496,7 @@ Write methods addressing the guideline. It almost always addressed all of the re
 
 ## Illustration of Methods
 
-![](images/illus_1.jpg)
+![](images/illus_1.jpg){fig-align="center"}
 
 :::{.aside}
 Gianni S, Fenza RD, Morais CCA, Fakhr BS, Mueller AL, Yu B, et al. High-dose nitric oxide from pressurized cylinders and nitric oxide produced by an electric generator from air. Respir Care 2022;67(2):201-208.
@@ -504,7 +504,7 @@ Gianni S, Fenza RD, Morais CCA, Fakhr BS, Mueller AL, Yu B, et al. High-dose nit
 
 ## Illustration of Methods
 
-![](images/illus_2.jpg)
+![](images/illus_2.jpg){fig-align="center"}
 
 :::{.aside}
 Hyun SE, Lee S-M, Shin H-I. Peak expiratory flow during mechanical insufflation-exsufflation: endotracheal tube versus face mask. Respir Care 2021;66(12):1815-1823.
@@ -512,7 +512,7 @@ Hyun SE, Lee S-M, Shin H-I. Peak expiratory flow during mechanical insufflation-
 
 ## Illustration of Methods
 
-![](images/illus_3.jpg)
+![](images/illus_3.jpg) {fig-align="center"}
 Illustrated timeline of study protocol that depicts chronological order.
 
 :::{.aside}
