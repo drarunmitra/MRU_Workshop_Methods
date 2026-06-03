@@ -276,9 +276,7 @@ When unsure, **more** detail, informed by journal limits, can always add supplem
 
 <br>
 
-. . . 
-
-::: {.callout-note appearance="simple"}
+::: {.callout-note appearance="simple" .fragment}
 Get these right and you clear the bar that applies to **any** study.
 :::
 
@@ -291,15 +289,12 @@ Get these right and you clear the bar that applies to **any** study.
 selection, eligibility, source population
 :::
 
-. . .
 
 ::: {.column width="33%"}
 **2 · Data & measurements**
 
 variables, tools, procedures
 :::
-
-. . . 
 
 ::: {.column width="33%"}
 **3 · Statistics**
@@ -422,27 +417,26 @@ $$ \downarrow $$
 > *metformin & preeclampsia*
 
 
-. . . 
-
 ::::: columns
+
+:::{.fragment}
 ::: {.column width="50%"}
 **Cross-sectional** → prevalence by current use <br> *critical: sampling*
 
 **Case-control** → cases vs controls, past use <br> *critical: control selection + recall bias*
 :::
+:::
 
-. . . 
-
+:::{.fragment}
 ::: {.column width="50%"}
 **Cohort** → users vs non-users, follow to delivery <br> *critical: baseline timing + attrition*
 
 **RCT** → randomise to metformin vs placebo <br> *critical: randomization + allocation concealment*
 :::
+:::
 :::::
 
 . . . 
-
-<br>
 
 ::: {.callout-tip appearance="simple"}
 Same question, but the **centre of gravity** shifts with design.
@@ -516,7 +510,7 @@ Hyun SE, Lee S-M, Shin H-I. Peak expiratory flow during mechanical insufflation-
 
 ## Illustration of Methods
 
-![](images/illus_3.jpg) {fig-align="center"}
+![](images/illus_3.jpg){fig-align="center"}
 
 
 :::{.aside}
