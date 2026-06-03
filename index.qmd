@@ -513,7 +513,7 @@ Hyun SE, Lee S-M, Shin H-I. Peak expiratory flow during mechanical insufflation-
 ## Illustration of Methods
 
 ![](images/illus_3.jpg) {fig-align="center"}
-Illustrated timeline of study protocol that depicts chronological order.
+
 
 :::{.aside}
 Martinez-Alejos R, Marti J-D, Li Bassi G, Gonzalez-Anton D, Pilar-Diaz X, Reginault T, et al. Effects of mechanical insufflation-exsufflation on sputum volume in mechanically ventilated critically ill subjects. Respir Care 2021;66(9):1371-1379.
