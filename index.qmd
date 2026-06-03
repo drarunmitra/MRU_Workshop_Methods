@@ -456,7 +456,11 @@ Explore **equator-network.org**
 
 -   **CTRI** registration — *prospective & mandatory* for trials, voluntary for observational studies (ICMR 2017)
 
--   Cite **ICMR National Ethical Guidelines 2017** + Declaration of Helsinki
+-  **ICMR National Ethical Guidelines 2017** 
+
+- **ICMR Data Protection and Data Privacy Act**
+
+-  **ICMR Health Data Management Guidelines**
 
 
 
