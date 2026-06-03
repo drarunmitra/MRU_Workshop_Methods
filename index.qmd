@@ -194,6 +194,8 @@ Transparent methods signal credibility, not just compliance.
 
 ::::: columns
 ::: {.column width="50%"}
+
+:::{.fragment}
 **Include** anything that affects the result or its reprodubility
 
 -   Eligibility & exclusion criteria
@@ -207,9 +209,12 @@ Transparent methods signal credibility, not just compliance.
 -   Protocol deviations
 :::
 
-. . . 
+:::
 
 ::: {.column width="50%"}
+
+:::{.fragment}
+
 **Leave out** trivia and interpretation
 
 -   *"A blue 500 ml beaker was used."*
@@ -220,11 +225,13 @@ Transparent methods signal credibility, not just compliance.
 
 -   Why other methods are "worse"
 :::
+:::
+
 :::::
 
 <br>
 
-::: {.callout-note appearance="simple"}
+::: {.callout-note appearance="simple" .fragment}
 When unsure, **more** detail, informed by journal limits, can always add supplementary material.
 :::
 
@@ -418,17 +425,17 @@ $$ \downarrow $$
 
 
 ::::: columns
-
-:::{.fragment}
 ::: {.column width="50%"}
+:::{.fragment}
 **Cross-sectional** → prevalence by current use <br> *critical: sampling*
 
 **Case-control** → cases vs controls, past use <br> *critical: control selection + recall bias*
 :::
 :::
 
-:::{.fragment}
+
 ::: {.column width="50%"}
+:::{.fragment}
 **Cohort** → users vs non-users, follow to delivery <br> *critical: baseline timing + attrition*
 
 **RCT** → randomise to metformin vs placebo <br> *critical: randomization + allocation concealment*
@@ -497,7 +504,7 @@ Write methods addressing the guideline. It almost always addressed all of the re
 ![](images/illus_1.jpg){fig-align="center"}
 
 :::{.aside}
-Gianni S, Fenza RD, Morais CCA, Fakhr BS, Mueller AL, Yu B, et al. High-dose nitric oxide from pressurized cylinders and nitric oxide produced by an electric generator from air. Respir Care 2022;67(2):201-208.
+Gianni S, et al. High-dose nitric oxide from pressurized cylinders and nitric oxide produced by an electric generator from air. Respir Care 2022;67(2):201-208.
 :::
 
 ## Illustration of Methods
@@ -514,7 +521,7 @@ Hyun SE, Lee S-M, Shin H-I. Peak expiratory flow during mechanical insufflation-
 
 
 :::{.aside}
-Martinez-Alejos R, Marti J-D, Li Bassi G, Gonzalez-Anton D, Pilar-Diaz X, Reginault T, et al. Effects of mechanical insufflation-exsufflation on sputum volume in mechanically ventilated critically ill subjects. Respir Care 2021;66(9):1371-1379.
+Martinez-Alejos R, et al. Effects of mechanical insufflation-exsufflation on sputum volume in mechanically ventilated critically ill subjects. Respir Care 2021;66(9):1371-1379.
 :::
 
 
